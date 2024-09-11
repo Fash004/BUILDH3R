@@ -1,4 +1,4 @@
-**Transaction deployed on metis andromedal**
+**Transaction deployed on metis andromeda**
 
 ***Transaction hash***
 0x77e6213eefdd9adb7fded763cd173159dbbbd6ae06d8fbd04de3e48f4100cbaa
