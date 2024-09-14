@@ -1,4 +1,4 @@
-#**Use case:Decentralized Finance (DeFi) Lending Protocol: Focused on Preserving Privacy**                                  
+**Use case:Decentralized Finance (DeFi) Lending Protocol: Focused on Preserving Privacy**                                  
 ZKM can improve efficiency, scalability, and anonymity in an Ethereum-based decentralised finance (DeFi) system. DeFi systems give users the opportunity to lend, trade, and borrow assets without the need for middlemen, but they frequently compromise scalability and anonymity. By enabling safe, private transaction validation on Layer 2 (L2) and sharing very little data with Layer 1 (Ethereum), ZKM resolves these problems.
 ZKM includes a Layer 2 solution where all user interactions take place off-chain in a private DeFi lending platform on Ethereum. By doing this, users can demonstrate that their actions are legitimate and in accordance with the platform's guidelines without disclosing private information on Layer 1.
 Without disclosing personal information, ZKM creates a cryptographic proof of the loan request, verifying that the transaction adheres to the lending protocol. 
